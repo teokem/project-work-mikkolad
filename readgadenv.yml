@@ -80,6 +80,5 @@ dependencies:
   - jupyter-client==5.1.0
   - jupyter-core==4.4.0
   - prompt-toolkit==1.0.15
-  - pynbody==0.42
 prefix: /Users/danielmikkola/anaconda3/envs/readgadenv
 
