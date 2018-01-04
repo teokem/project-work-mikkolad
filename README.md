@@ -12,7 +12,7 @@ $ conda env create -f readgadenv.yml
 $ source activate readgadenv
 (readgadenv) $ 
 ```
-This will place you in the environment. Deactivate with `source deactivate readgadenv`.
+This will place you in the environment. It can be deactivated with `source deactivate readgadenv`.
 
 In the environment you will need to install [`pynbody`](https://github.com/pynbody/pynbody). The recommended way of installing is by either doing the following:
 
